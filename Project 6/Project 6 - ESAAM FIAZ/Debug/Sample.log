@@ -1,0 +1,22 @@
+﻿  sample.cpp
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(368,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(454,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(455,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(458,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(459,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(460,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(461,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(462,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(464,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(466,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(471,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(472,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(474,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(475,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(476,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(477,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(1150,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(1233,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\sample.cpp(1235,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\essam felemboo\Desktop\CS376\Projects\Project 6\Project 6 - ESAAM FIAZ\Sample2015\Debug\Sample.exe

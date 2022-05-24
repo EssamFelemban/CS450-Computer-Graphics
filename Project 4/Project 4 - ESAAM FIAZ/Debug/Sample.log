@@ -1,0 +1,57 @@
+﻿  Sample.cpp
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(429,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(444,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(446,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(446,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(451,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(451,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(459,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(459,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(465,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(466,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(466,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(471,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(471,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(479,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(479,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(486,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(851,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(863,31): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(863,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(871,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(872,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(872,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(880,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(881,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(881,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(892,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(892,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(902,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(902,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(910,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(912,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(912,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(939,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(941,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(942,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(942,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(943,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(943,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(950,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(952,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(953,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(953,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(954,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(954,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(961,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(963,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(964,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(964,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(965,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(965,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(933,7): warning C4102: 'Souce': unreferenced label
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(933,13): warning C4102: 'http': unreferenced label
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(1337,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(1396,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Sample.cpp(1474,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Sample.vcxproj -> C:\Users\essam felemboo\Desktop\CS376\Projects\Project 4\ISAAM FIAZ (38104884) project 4\Sample2015\Debug\Sample.exe

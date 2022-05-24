@@ -1,0 +1,11 @@
+﻿Build started 10/16/2016 10:21:26 PM.
+     1>Project "C:\Users\basimisk\Google Drive\Grad School\Fall 2016\CS550 Introduction to Computer Graphics\P3\Sample\SampleFreeGlut\Sample.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1186,5): warning MSB8012: TargetPath(C:\Users\basimisk\Google Drive\Grad School\Fall 2016\CS550 Introduction to Computer Graphics\P3\Sample\SampleFreeGlut\x64\Debug\Sample.exe) does not match the Linker's OutputFile property value (C:\Users\basimisk\Google Drive\Grad School\Fall 2016\CS550 Introduction to Computer Graphics\P3\Sample\SampleFreeGlut\Debug\Sample.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/Sample.exe" /INCREMENTAL:NO /NOLOGO glew32.lib freeglut.lib glu32.lib opengl32.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/Sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\basimisk\Google Drive\Grad School\Fall 2016\CS550 Introduction to Computer Graphics\P3\Sample\SampleFreeGlut\x64\Debug\Sample.lib" /MACHINE:X64 .\Debug/sample.obj
+     1>.\Debug/sample.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>Done Building Project "C:\Users\basimisk\Google Drive\Grad School\Fall 2016\CS550 Introduction to Computer Graphics\P3\Sample\SampleFreeGlut\Sample.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.33

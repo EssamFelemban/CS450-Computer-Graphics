@@ -1,0 +1,14 @@
+﻿  sample.cpp
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1187,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1274,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1275,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1276,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1279,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1280,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1281,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1291,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1292,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1296,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\sample.cpp(1297,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\essam felemboo\Desktop\CS376\Projects\Project 3\ISAAM FIAZ (38104884) project 3\Sample2015\Debug\Sample.exe

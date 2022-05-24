@@ -1,0 +1,103 @@
+﻿  sample.cpp
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(15,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(16,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(20,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(24,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(27,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(28,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(31,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(38,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(40,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(46,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(52,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(58,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(64,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(74,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(80,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(87,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(98,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(100,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(148,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(153,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(155,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(157,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(161,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(163,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(165,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(171,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(173,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(179,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(181,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(187,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(189,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(193,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(195,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(197,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(201,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(203,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(205,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(209,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(211,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(213,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(217,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(219,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(221,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(225,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(227,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(229,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(232,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(234,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(236,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(240,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(242,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(244,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(250,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(252,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(258,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(260,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(266,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(268,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(274,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(276,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(282,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(284,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(290,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(292,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(297,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(324,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(325,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(331,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(337,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(345,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(345,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(345,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(352,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(361,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(363,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(365,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(369,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(371,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(373,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(377,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(380,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(382,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(388,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(388,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(388,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(396,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(397,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(401,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(402,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(403,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(446,17): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(449,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(450,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(454,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(455,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(459,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(460,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(480,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(482,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\sample.cpp(492,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\essam felemboo\Desktop\CS376\Projects\final project\ISAAM FIAZ (3810484) final project\Sample2015\Debug\Sample.exe

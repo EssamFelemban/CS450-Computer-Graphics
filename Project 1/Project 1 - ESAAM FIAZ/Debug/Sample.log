@@ -1,0 +1,10 @@
+﻿  sample.cpp
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\sample.cpp(402,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\sample.cpp(404,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\sample.cpp(413,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\sample.cpp(413,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\sample.cpp(414,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\sample.cpp(416,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\sample.cpp(1124,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\essam felemboo\Desktop\CS376\Projects\Project 1\Sample - ISAAM FIAZ (38104884)\Sample2015\Debug\Sample.exe

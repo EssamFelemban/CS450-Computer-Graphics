@@ -1,0 +1,40 @@
+﻿Build started 10/16/2016 10:20:48 PM.
+     1>Project "C:\Users\basimisk\Google Drive\Grad School\Fall 2016\CS550 Introduction to Computer Graphics\P3\Sample\SampleFreeGlut\Sample.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt sample.cpp
+         sample.cpp
+     1>sample.cpp(256): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(261): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(273): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(274): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(278): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(279): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(414): warning C4005: 'MS_IN_THE_ANIMATION_CYCLE' : macro redefinition
+                 sample.cpp(19) : see previous definition of 'MS_IN_THE_ANIMATION_CYCLE'
+     1>sample.cpp(675): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(807): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(822): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(828): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(829): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(835): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(836): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(1188): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>sample.cpp(1190): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>sample.cpp(1191): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(1200): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(1204): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(1219): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>sample.cpp(1221): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>sample.cpp(1222): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>sample.cpp(1230): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>sample.cpp(1234): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release/Sample.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\Release/Sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Release\Sample.lib" /MACHINE:X86 /SAFESEH .\Release/sample.obj
+     1>sample.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "void __cdecl InitGraphics(void)" (?InitGraphics@@YAXXZ)
+     1>sample.obj : error LNK2019: unresolved external symbol __imp__glewGetString@4 referenced in function "void __cdecl InitGraphics(void)" (?InitGraphics@@YAXXZ)
+     1>.\Release/Sample.exe : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "C:\Users\basimisk\Google Drive\Grad School\Fall 2016\CS550 Introduction to Computer Graphics\P3\Sample\SampleFreeGlut\Sample.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.92
