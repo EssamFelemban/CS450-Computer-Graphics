@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Essam Felemban</h1>
-![Essam Felemban](https://user-images.githubusercontent.com/67069594/170029886-f4763af6-e11a-4dbe-ac63-60ebf3b79281.png)
 
 <h3 align="center">I'm Computer Science Student and developer.</h3>
 
